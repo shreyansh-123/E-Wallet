@@ -2,7 +2,7 @@
 
 Usage:
 copy paste this repo
-run: npm run dev
+ then run 'npm run dev'
 
 Install this packages:
     "cookie-parser"
