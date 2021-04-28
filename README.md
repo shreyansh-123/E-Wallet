@@ -1,7 +1,8 @@
 # E-Wallet-Payment-System
 
 Usage:
-npm run dev
+copy paste this repo
+run: npm run dev
 
 Install this packages:
     "cookie-parser"
